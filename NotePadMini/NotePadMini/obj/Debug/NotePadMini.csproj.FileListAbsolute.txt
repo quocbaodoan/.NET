@@ -1,0 +1,10 @@
+C:\Users\quocb\source\repos\NotePadMini\NotePadMini\bin\Debug\NotePadMini.exe.config
+C:\Users\quocb\source\repos\NotePadMini\NotePadMini\bin\Debug\NotePadMini.exe
+C:\Users\quocb\source\repos\NotePadMini\NotePadMini\bin\Debug\NotePadMini.pdb
+C:\Users\quocb\source\repos\NotePadMini\NotePadMini\obj\Debug\NotePadMini.csprojAssemblyReference.cache
+C:\Users\quocb\source\repos\NotePadMini\NotePadMini\obj\Debug\NotePadMini.Properties.Resources.resources
+C:\Users\quocb\source\repos\NotePadMini\NotePadMini\obj\Debug\NotePadMini.csproj.GenerateResource.cache
+C:\Users\quocb\source\repos\NotePadMini\NotePadMini\obj\Debug\NotePadMini.csproj.CoreCompileInputs.cache
+C:\Users\quocb\source\repos\NotePadMini\NotePadMini\obj\Debug\NotePadMini.exe
+C:\Users\quocb\source\repos\NotePadMini\NotePadMini\obj\Debug\NotePadMini.pdb
+C:\Users\quocb\source\repos\NotePadMini\NotePadMini\obj\Debug\NotePadMini.Notepad.resources
