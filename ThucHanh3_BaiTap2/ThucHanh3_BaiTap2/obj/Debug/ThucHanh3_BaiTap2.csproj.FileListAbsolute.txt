@@ -1,0 +1,11 @@
+C:\Users\quocb\source\repos\ThucHanh3_BaiTap2\ThucHanh3_BaiTap2\bin\Debug\ThucHanh3_BaiTap2.exe.config
+C:\Users\quocb\source\repos\ThucHanh3_BaiTap2\ThucHanh3_BaiTap2\bin\Debug\ThucHanh3_BaiTap2.exe
+C:\Users\quocb\source\repos\ThucHanh3_BaiTap2\ThucHanh3_BaiTap2\bin\Debug\ThucHanh3_BaiTap2.pdb
+C:\Users\quocb\source\repos\ThucHanh3_BaiTap2\ThucHanh3_BaiTap2\obj\Debug\ThucHanh3_BaiTap2.csprojAssemblyReference.cache
+C:\Users\quocb\source\repos\ThucHanh3_BaiTap2\ThucHanh3_BaiTap2\obj\Debug\ThucHanh3_BaiTap2.Form1.resources
+C:\Users\quocb\source\repos\ThucHanh3_BaiTap2\ThucHanh3_BaiTap2\obj\Debug\ThucHanh3_BaiTap2.Form2.resources
+C:\Users\quocb\source\repos\ThucHanh3_BaiTap2\ThucHanh3_BaiTap2\obj\Debug\ThucHanh3_BaiTap2.Properties.Resources.resources
+C:\Users\quocb\source\repos\ThucHanh3_BaiTap2\ThucHanh3_BaiTap2\obj\Debug\ThucHanh3_BaiTap2.csproj.GenerateResource.cache
+C:\Users\quocb\source\repos\ThucHanh3_BaiTap2\ThucHanh3_BaiTap2\obj\Debug\ThucHanh3_BaiTap2.csproj.CoreCompileInputs.cache
+C:\Users\quocb\source\repos\ThucHanh3_BaiTap2\ThucHanh3_BaiTap2\obj\Debug\ThucHanh3_BaiTap2.exe
+C:\Users\quocb\source\repos\ThucHanh3_BaiTap2\ThucHanh3_BaiTap2\obj\Debug\ThucHanh3_BaiTap2.pdb
