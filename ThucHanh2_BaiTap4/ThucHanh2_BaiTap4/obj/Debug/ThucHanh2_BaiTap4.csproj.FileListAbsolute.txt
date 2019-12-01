@@ -1,0 +1,11 @@
+C:\Users\quocb\source\repos\ThucHanh2_BaiTap4\ThucHanh2_BaiTap4\obj\Debug\ThucHanh2_BaiTap4.csprojAssemblyReference.cache
+C:\Users\quocb\source\repos\ThucHanh2_BaiTap4\ThucHanh2_BaiTap4\obj\Debug\ThucHanh2_BaiTap4.Form1.resources
+C:\Users\quocb\source\repos\ThucHanh2_BaiTap4\ThucHanh2_BaiTap4\obj\Debug\ThucHanh2_BaiTap4.Properties.Resources.resources
+C:\Users\quocb\source\repos\ThucHanh2_BaiTap4\ThucHanh2_BaiTap4\obj\Debug\ThucHanh2_BaiTap4.csproj.GenerateResource.cache
+C:\Users\quocb\source\repos\ThucHanh2_BaiTap4\ThucHanh2_BaiTap4\obj\Debug\ThucHanh2_BaiTap4.csproj.CoreCompileInputs.cache
+C:\Users\quocb\source\repos\ThucHanh2_BaiTap4\ThucHanh2_BaiTap4\bin\Debug\ThucHanh2_BaiTap4.exe.config
+C:\Users\quocb\source\repos\ThucHanh2_BaiTap4\ThucHanh2_BaiTap4\bin\Debug\ThucHanh2_BaiTap4.exe
+C:\Users\quocb\source\repos\ThucHanh2_BaiTap4\ThucHanh2_BaiTap4\bin\Debug\ThucHanh2_BaiTap4.pdb
+C:\Users\quocb\source\repos\ThucHanh2_BaiTap4\ThucHanh2_BaiTap4\obj\Debug\ThucHanh2_BaiTap4.exe
+C:\Users\quocb\source\repos\ThucHanh2_BaiTap4\ThucHanh2_BaiTap4\obj\Debug\ThucHanh2_BaiTap4.pdb
+C:\Users\quocb\source\repos\ThucHanh2_BaiTap4\ThucHanh2_BaiTap4\obj\Debug\ThucHanh2_BaiTap4.Form2.resources
