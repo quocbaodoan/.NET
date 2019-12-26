@@ -1,0 +1,10 @@
+C:\Users\quocb\source\repos\RanSanMoi\RanSanMoi\bin\Debug\RanSanMoi.exe.config
+C:\Users\quocb\source\repos\RanSanMoi\RanSanMoi\bin\Debug\RanSanMoi.exe
+C:\Users\quocb\source\repos\RanSanMoi\RanSanMoi\bin\Debug\RanSanMoi.pdb
+C:\Users\quocb\source\repos\RanSanMoi\RanSanMoi\obj\Debug\RanSanMoi.csprojAssemblyReference.cache
+C:\Users\quocb\source\repos\RanSanMoi\RanSanMoi\obj\Debug\RanSanMoi.Form1.resources
+C:\Users\quocb\source\repos\RanSanMoi\RanSanMoi\obj\Debug\RanSanMoi.Properties.Resources.resources
+C:\Users\quocb\source\repos\RanSanMoi\RanSanMoi\obj\Debug\RanSanMoi.csproj.GenerateResource.cache
+C:\Users\quocb\source\repos\RanSanMoi\RanSanMoi\obj\Debug\RanSanMoi.csproj.CoreCompileInputs.cache
+C:\Users\quocb\source\repos\RanSanMoi\RanSanMoi\obj\Debug\RanSanMoi.exe
+C:\Users\quocb\source\repos\RanSanMoi\RanSanMoi\obj\Debug\RanSanMoi.pdb
