@@ -1,0 +1,11 @@
+C:\Users\quocb\source\repos\.NET\ThiCuoiKi_Bai1\ThiCuoiKi_Bai1\bin\Debug\ThiCuoiKi_Bai1.exe.config
+C:\Users\quocb\source\repos\.NET\ThiCuoiKi_Bai1\ThiCuoiKi_Bai1\bin\Debug\ThiCuoiKi_Bai1.exe
+C:\Users\quocb\source\repos\.NET\ThiCuoiKi_Bai1\ThiCuoiKi_Bai1\bin\Debug\ThiCuoiKi_Bai1.pdb
+C:\Users\quocb\source\repos\.NET\ThiCuoiKi_Bai1\ThiCuoiKi_Bai1\obj\Debug\ThiCuoiKi_Bai1.csprojAssemblyReference.cache
+C:\Users\quocb\source\repos\.NET\ThiCuoiKi_Bai1\ThiCuoiKi_Bai1\obj\Debug\ThiCuoiKi_Bai1.Form1.resources
+C:\Users\quocb\source\repos\.NET\ThiCuoiKi_Bai1\ThiCuoiKi_Bai1\obj\Debug\ThiCuoiKi_Bai1.Properties.Resources.resources
+C:\Users\quocb\source\repos\.NET\ThiCuoiKi_Bai1\ThiCuoiKi_Bai1\obj\Debug\ThiCuoiKi_Bai1.csproj.GenerateResource.cache
+C:\Users\quocb\source\repos\.NET\ThiCuoiKi_Bai1\ThiCuoiKi_Bai1\obj\Debug\ThiCuoiKi_Bai1.csproj.CoreCompileInputs.cache
+C:\Users\quocb\source\repos\.NET\ThiCuoiKi_Bai1\ThiCuoiKi_Bai1\obj\Debug\ThiCuoiKi_Bai1.exe
+C:\Users\quocb\source\repos\.NET\ThiCuoiKi_Bai1\ThiCuoiKi_Bai1\obj\Debug\ThiCuoiKi_Bai1.pdb
+C:\Users\quocb\source\repos\.NET\ThiCuoiKi_Bai1\ThiCuoiKi_Bai1\obj\Debug\ThiCuoiKi_Bai1.Form2.resources
